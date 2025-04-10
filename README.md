@@ -45,9 +45,9 @@ Delete tasks
     Backend should be running on a separate port. http://localhost:5000
 
 ## Technologies Used
-
-  React for frontend
-  Node.js for backend
+   React for frontend
+   
+   Node.js for backend
 
 ## Contributing
 
