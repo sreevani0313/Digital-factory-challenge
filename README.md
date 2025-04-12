@@ -1,12 +1,14 @@
 # Digital Factory Challenge
 
-Welcome to the Digital Factory Challenge! This project includes both the **Frontend** and **Backend** code for a to-do list application.
+Welcome to the Digital Factory Challenge! This project includes both the Frontend and Backend code for a to-do list application.
 
 ## Project Overview
 
 This project consists of two parts:
+
 Frontend: A to-do list application built with React.
-Backend: A simple Node.js or API-based backend (if applicable).
+
+Backend: Node.js 
 
 ### Frontend Features:
 Add new tasks
